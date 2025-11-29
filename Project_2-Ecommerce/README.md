@@ -21,7 +21,7 @@ The goal of the project is to:
 ### 📂 Dashboard File
 
 📄 Download the full Excel dashboard here:
-Ecommerce_Dashboard.xlsx
+[2_Ecommerce_Analysis.xlsx](2_Ecommerce_Analysis.xlsx)
 
 ### 🛠️ Excel Skills Used
 
