@@ -82,6 +82,7 @@ Quarter        = "Q" & INT((Month Num + 2)/3)
 
 #### 1️⃣ Sales, Profit & Profit Margin by Category
 <img width="780" height="630" alt="Screenshot 2025-11-26 at 22 17 01" src="https://github.com/user-attachments/assets/30d67c26-2de9-45fc-9f07-450ff32bfb82" />
+
 - **Excel Features:** Clustered column + line chart
 
 - **Design Choice:** Dual-axis to compare Sales vs Profit Margin
@@ -97,6 +98,7 @@ Quarter        = "Q" & INT((Month Num + 2)/3)
 
 #### 2️⃣ Sales by Region
 <img width="762" height="629" alt="Screenshot 2025-11-26 at 22 17 09" src="https://github.com/user-attachments/assets/e05ba7da-76e1-4007-9563-797f3e7d3569" />
+
 - **Insights:**
 
    - West region leads revenue
@@ -124,6 +126,7 @@ Quarter        = "Q" & INT((Month Num + 2)/3)
 
 #### 4️⃣ Customer Sales Segmentation (Pareto 80/20)
 <img width="701" height="595" alt="Screenshot 2025-11-26 at 22 18 42" src="https://github.com/user-attachments/assets/aaaf6bfa-fa77-4028-85b4-0b3d40a0704b" />
+
 - Top **~20%** of sub-categories generate **~80%** of revenue
 
 - Phones, Chairs, Storage → key drivers
@@ -132,6 +135,7 @@ Quarter        = "Q" & INT((Month Num + 2)/3)
 
 #### 5️⃣ Revenue Contribution by Customer Tier
 <img width="716" height="596" alt="Screenshot 2025-11-26 at 22 18 00" src="https://github.com/user-attachments/assets/1c836043-485e-4ae8-b3af-526d068d493b" />
+
 Customer tiers were assigned using **Pareto segmentation:**
 
 - **A-VIP** – top 80% revenue
@@ -164,6 +168,7 @@ Scoring applied using:
 
 #### 7️⃣ RFM Segments Distribution
 <img width="723" height="583" alt="Screenshot 2025-11-26 at 22 18 50" src="https://github.com/user-attachments/assets/814103b3-c6c7-4563-ab84-ef27277c5242" />
+
 Segments:
 
 - **🏆 Champions** – best customers
